@@ -8,4 +8,4 @@ How to use this repository:
 
 ⚠️  There is a chance that we'll make this repository __public__ after some time. Please keep this in mind. If you'd like to contribute but only privately or anonymously, please email me at jsvine@gmail.com.
 
-🌱 Please be kind and respectful of one another.
+🌱 Please be kind and respectful to one another.
